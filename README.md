@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Ayaz</h1>
-<h3 align="center">A frontend developer from Azerbaijan 🇦🇿</h3>
+<h1 align="center">I'm Ayaz</h1>
+<h3 align="center">A Software Developer</h3>
 
-- 📫 How to reach me **ayazhsynv@proton.me**
+- 📫 You can reach me at **ayazhsynv@proton.me**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
