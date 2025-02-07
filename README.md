@@ -1,7 +1,6 @@
 <h1 align="center">I'm Ayaz</h1>
 <h3 align="center">A Frontend Developer From Azerbaijan 🇦🇿</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayazhsynv" alt="ayazhsynv" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
